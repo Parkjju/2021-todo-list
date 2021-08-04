@@ -20,6 +20,10 @@ body {
   height: 30rem;
   overflow: auto;
 }
+#login-form {
+  position: relative;
+  left: 1.7rem;
+}
 
 ul {
   list-style: none;
